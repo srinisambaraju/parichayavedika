@@ -18,6 +18,7 @@ from django.urls import path
 from django.conf.urls import url, include
 from .import views
 
+#all the url patterns need to be listed here
 
 urlpatterns = [
     path('admin/', admin.site.urls),

@@ -1,0 +1,12 @@
+# PyCharm Files
+.idea
+
+# Apple Files
+.DS_Store
+
+# Dev Database
+db.sqlite3
+*.sqlite3.bak
+
+# Python Generated Files
+*.pyc
